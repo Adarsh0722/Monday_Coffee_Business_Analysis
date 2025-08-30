@@ -1,5 +1,8 @@
 # ☕ Monday Coffee Business Analysis
 
+![Monday_Coffee](https://github.com/Adarsh0722/Monday_Coffee_Business_Analysis/blob/main/1.png)
+
+
 ## 📌 Project Overview
 
 This project analyzes the **Monday Coffee business case** using SQL. The goal is to understand customer behavior, city-level sales, product performance, and overall market potential. The dataset includes details about **cities, customers, products, and sales transactions**.
@@ -47,8 +50,7 @@ By writing SQL queries, I’ve explored different aspects of the business such a
 
 ## 📸 Screenshots
 
-(Add screenshots of your SQL outputs, query results, or dashboards here)
-
+![Monday_Coffee](https://github.com/Adarsh0722/Monday_Coffee_Business_Analysis/blob/main/Screenshot%202025-08-30%20213345.png)
 ---
 
 ## 🛠️ Tech Stack
